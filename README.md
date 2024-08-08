@@ -2,4 +2,4 @@
 <br>
 Git practice for learning
 <br>
-Author- Aditya
+Author- Aditya Ranjan Pradhan
